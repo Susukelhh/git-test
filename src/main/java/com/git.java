@@ -9,5 +9,6 @@ public class git {
         System.out.println("hello hot-fix");
         System.out.println("git");
         System.out.println("push git");
+        System.out.println("pull git");
     }
 }
